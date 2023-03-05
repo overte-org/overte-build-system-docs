@@ -1,3 +1,3 @@
 # Overte build system documentation
 
-http://overte-build-system-docs.rtfd.io/
+https://overte-build-system-docs.rtfd.io/
